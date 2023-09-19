@@ -26,7 +26,7 @@ Created by Cider Security [(Acquired by Palo Alto Networks)](https://www.paloalt
 * [Solutions](#Solutions)
 * [Contributing](#Contributing)
 
-## Description
+## Description with updates
 The CI/CD Goat project allows engineers and security practitioners to learn and practice CI/CD security through a set of 11 challenges, enacted against a real, full blown CI/CD environment. The scenarios are of varying difficulty levels, with each scenario focusing on one primary attack vector.
 
 The challenges cover the [Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/), including Insufficient Flow Control Mechanisms, PPE (Poisoned Pipeline Execution), Dependency Chain Abuse, PBAC (Pipeline-Based Access Controls), and more.\
